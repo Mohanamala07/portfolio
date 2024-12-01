@@ -276,11 +276,14 @@ section {
 .about-details-container {
   justify-content: center;
   flex-direction: column;
+   
+
 }
 
 .about-containers,
 .about-details-container {
   display: flex;
+  /* padding-right: 60px; */
 }
 
 .about-pic {
@@ -301,6 +304,8 @@ section {
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
+
+
 }
 
 .section-container {
